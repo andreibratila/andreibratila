@@ -59,7 +59,7 @@ Want to know more about me?
 ---
 ## GitRoll Profile
 
-<div align="center">
+
 
 <a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/uUG5yh4WITkMG3Na7MifqhvT0vvP2?theme=light" alt="GitRoll Profile Badge"/>
@@ -67,9 +67,10 @@ Want to know more about me?
 
 <br />
   [GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
+  
   [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
+  
   [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
-</div>
 ---
 
 ## 📊 Github Stats
