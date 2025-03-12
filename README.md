@@ -70,7 +70,6 @@ Want to know more about me?
   [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
   [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
 </div>
-
 ---
 
 ## 📊 Github Stats
