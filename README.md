@@ -66,21 +66,9 @@ Want to know more about me?
 </a>
 
 <br />
-  <div style="display: flex; justify-content: space-between; width: 60%;">
-
-    <a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
-      GitRoll Profile
-    </a>
-
-    <a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages" target="_blank">
-      GitRoll Languages
-    </a>
-
-    <a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks" target="_blank">
-      GitRoll Stacks
-    </a>
-
-  </div>
+  [GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
+  [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
+  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
 </div>
 
 ---
