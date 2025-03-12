@@ -6,7 +6,8 @@
 
 <div align="center">
 
-I am a passionate Full Stack Developer with a solid foundation in both frontend and backend technologies. I specialize in creating dynamic and engaging user interfaces using React, Next.js, and GSAP, and developing robust server-side solutions with Nest.js, Express, and Solidity. I am committed to continuous learning and enjoy solving challenging problems and creating innovative solutions to enhance user experiences and improve system efficiency.
+I am a developer FullStack with experience in TypeScript, Next.js Nest.js, specialized in web applications and integration Web3 (smart contracts in Solidity and Metamask in BSC).
+With knowledge in managing VPS, auto deployment with webhooks and configuring Nginx as a reverse proxy.
 
 Want to know more about me?
 
