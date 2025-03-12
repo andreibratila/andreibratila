@@ -66,10 +66,11 @@ Want to know more about me?
 </a>
 
 <br />
-
-[GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
+ <div style="display: flex; justify-content: space-between; width: 60%;">
+  [GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
   [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
-  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks))
+  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
+</div>
 </div>
 
 ---
