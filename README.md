@@ -67,24 +67,9 @@ Want to know more about me?
 
 <br />
 
-<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
-  Ver mi perfil en GitRoll
-</a>
-
-<br /><br />
-
-<!-- Enlace a los lenguajes que usas -->
-<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages" target="_blank">
-  Ver mis lenguajes en GitRoll
-</a>
-
-<br /><br />
-
-<!-- Enlace a tus stacks de tecnologías -->
-<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks" target="_blank">
-  Ver mis stacks en GitRoll
-</a>
-
+[GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
+  [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
+  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks))
 </div>
 
 ---
