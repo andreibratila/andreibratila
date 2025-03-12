@@ -84,8 +84,7 @@ Want to know more about me?
 
 ## Certifications
 
-<details>
-<summary><b>2024</b></summary>
+
 
 [JavaScript Moderno: Guía para dominar el lenguaje](https://www.udemy.com/certificate/UC-a7d54d55-9b88-4cda-b2e5-6f6b996e4edc/) | Udemy  
 *Horas: 20,5 horas*  
@@ -135,7 +134,7 @@ Tecnologías: NestJS, TypeScript, TypeORM, MongoDB, Docker, JWT, WebSockets
 *Horas: 29 horas*  
 Tecnologías: Node.js, JWT, Express, YARGS, REST API, Socket Server
 
-</details>
+
 ---
 
 
