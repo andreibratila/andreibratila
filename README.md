@@ -11,8 +11,8 @@ I am a passionate Full Stack Developer with a solid foundation in both frontend 
 Want to know more about me?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-florian-bratila/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.florian.bratila@gmail.com)
-[![Web Site](https://img.shields.io/badge/Web-Site-37a779?style=for-the-badge&logoColor=white)](https://andrei.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreiflorianbratila@gmail.com)
+[![Web Site](https://img.shields.io/badge/Web-Site-37a779?style=for-the-badge&logoColor=white)](https://andreiflorianbratila.dev)
 
 </div>
 
