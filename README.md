@@ -63,7 +63,20 @@ Want to know more about me?
   <img src="https://gitroll.io/api/badges/profiles/v1/uUG5yh4WITkMG3Na7MifqhvT0vvP2?theme=light" alt="GitRoll Profile Badge"/>
 </a>
 
-[GitRoll Profile Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
+<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
+  Ver mi perfil en GitRoll
+</a>
+
+<!-- Enlace a los lenguajes que usas -->
+<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages" target="_blank">
+  Ver mis lenguajes en GitRoll
+</a>
+
+<!-- Enlace a tus stacks de tecnologías -->
+<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks" target="_blank">
+  Ver mis stacks en GitRoll
+</a>
+---
 
 ## 📊 Github Stats
 
