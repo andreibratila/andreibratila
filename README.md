@@ -57,6 +57,13 @@ Want to know more about me?
 </div>
 
 ---
+## GitRoll Profile
+
+<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uUG5yh4WITkMG3Na7MifqhvT0vvP2?theme=light" alt="GitRoll Profile Badge"/>
+</a>
+
+[GitRoll Profile Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
 
 ## 📊 Github Stats
 
@@ -80,19 +87,56 @@ Want to know more about me?
 <details>
 <summary><b>2024</b></summary>
 
-[Curso de Next.js 14](https://www.udemy.com/certificate/UC-abc12345/) | Udemy
+[JavaScript Moderno: Guía para dominar el lenguaje](https://www.udemy.com/certificate/UC-a7d54d55-9b88-4cda-b2e5-6f6b996e4edc/) | Udemy  
+*Horas: 20,5 horas*  
+Tecnologías: JS, ESNext, DOM, Node.js, Fetch API, Promesas
 
-[Curso de Solidity y Smart Contracts](https://www.udemy.com/certificate/UC-xyz67890/) | Udemy
+[Next.js: El framework de React para producción](https://www.udemy.com/certificate/UC-1ddab3f0-2635-48ea-b27a-4f32c502d7f1/) | Udemy  
+*Horas: 36,5 horas*  
+Tecnologías: Next.js, React, TypeScript, SSR, ISR, SSG
+
+[Docker: Guía práctica de uso para desarrolladores](https://www.udemy.com/certificate/UC-13e4bd2d-1806-44e2-bc67-d6a2f30d76f4/) | Udemy  
+*Horas: 14 horas*  
+Tecnologías: Docker, Docker CLI, Docker Compose, Dockerfiles, Kubernetes, GitHub Actions
+
+[Bootcamp Completo: Blockchain/Web3 de cero a experto](https://www.udemy.com/certificate/UC-447ef0a0-d03d-4154-8073-1e2f717d0dae/) | Udemy  
+*Horas: 42,5 horas*  
+Tecnologías: Blockchain, Solidity, Ethereum, BSC, MATIC, Smart Contracts
+
+[Game Development in JS/TS: The Complete Guide (w/ Phaser 3)](https://www.udemy.com/certificate/UC-c7b9fe67-69ca-43c1-b36c-f36a17f503aa/) | Udemy  
+*Horas: 27 horas*  
+Tecnologías: JavaScript, TypeScript, Phaser, HTML5, Canvas, Physics Engine
+
+[SQL de cero: Tu guía práctica con PostgreSQL](https://www.udemy.com/certificate/UC-17421f0f-ec1e-454e-8c7c-3534fd34a719/) | Udemy  
+*Horas: 16 horas*  
+Tecnologías: PostgreSQL, SQL, PL/pgSQL, Docker, NeonDB, ER Diagrams
+
+[React: De cero a experto (Hooks y MERN)](https://www.udemy.com/certificate/UC-c021dc91-d43a-4c33-a970-fc72b0fdd127/) | Udemy  
+*Horas: 54 horas*  
+Tecnologías: React, Hooks, Functional Components, Context API, Redux, MongoDB
+
+[React PRO: Lleva tus bases al siguiente nivel](https://www.udemy.com/certificate/UC-ac15288a-e75a-44ec-916b-dfb103066be6/) | Udemy  
+*Horas: 26,5 horas*  
+Tecnologías: React, TypeScript, PWA, NPM, Storybook, Formik
+
+[Zustand: Gestor de estado para React](https://cursos.devtalles.com/certificates/vnxzuvtwqs) | DevTalles  
+*Horas: 6 horas*  
+Tecnologías: Zustand, TypeScript
+
+[TypeScript: Tu completa guía y manual de mano](https://www.udemy.com/certificate/UC-78634e0f-8726-4e87-9609-bf511642f44c/) | Udemy  
+*Horas: 9 horas*  
+Tecnologías: TypeScript, JavaScript
+
+[Nest: Desarrollo backend escalable con Node](https://www.udemy.com/certificate/UC-06c4e735-1dc5-4dbd-82a3-c4268b3001c0/) | Udemy  
+*Horas: 25 horas*  
+Tecnologías: NestJS, TypeScript, TypeORM, MongoDB, Docker, JWT, WebSockets
+
+[Legacy: Node: De cero a experto](https://www.udemy.com/certificate/UC-7e7b92c4-8d07-4426-9ce2-69f42b6d13c7/) | Udemy  
+*Horas: 29 horas*  
+Tecnologías: Node.js, JWT, Express, YARGS, REST API, Socket Server
 
 </details>
-
 ---
 
-## GitRoll Profile
 
-<a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uUG5yh4WITkMG3Na7MifqhvT0vvP2?theme=light" alt="GitRoll Profile Badge"/>
-</a>
-
-[GitRoll Profile Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
 
