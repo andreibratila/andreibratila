@@ -59,18 +59,19 @@ Want to know more about me?
 ---
 ## GitRoll Profile
 
-
+<div align="center">
 
 <a href="https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/uUG5yh4WITkMG3Na7MifqhvT0vvP2?theme=light" alt="GitRoll Profile Badge"/>
 </a>
 
 <br />
-  [GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
-  
+
+[GitRoll Profile](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2)
   [GitRoll Languages](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/languages)
-  
-  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks)
+  [GitRoll Stacks](https://gitroll.io/profile/uUG5yh4WITkMG3Na7MifqhvT0vvP2/stacks))
+</div>
+
 ---
 
 ## 📊 Github Stats
@@ -139,6 +140,5 @@ Tecnologías: NestJS, TypeScript, TypeORM, MongoDB, Docker, JWT, WebSockets
 [Legacy: Node: De cero a experto](https://www.udemy.com/certificate/UC-7e7b92c4-8d07-4426-9ce2-69f42b6d13c7/) | Udemy  
 *Horas: 29 horas*  
 Tecnologías: Node.js, JWT, Express, YARGS, REST API, Socket Server
-
 
 
